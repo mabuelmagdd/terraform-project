@@ -1,6 +1,7 @@
 # AWS Architecture Deployment with Terraform
 
-![AWS Network Diagram](./AWS%20network%20diagram.png)
+![AWS%20network%20diagram](https://github.com/user-attachments/assets/5a1156d7-be2e-4519-b52d-51b2ef2ec6ec)
+
 
 ## Overview
 This Terraform project sets up an AWS infrastructure with load balancers, reverse proxy and web server EC2 instances, autoscaling, and network configuration within a VPC. This design ensures scalable and secure web hosting, with organized modules for ease of maintenance and reusability.
