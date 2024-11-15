@@ -1,0 +1,12 @@
+vpc_cidr_block = "10.0.0.0/16"
+az1 = "us-east-1a"
+az2 = "us-east-1b"
+az1_pub_subnet_cidr_block= "10.0.0.0/24"
+az1_priv_subnet_cidr_block= "10.0.1.0/24"
+az2_pub_subnet_cidr_block = "10.0.2.0/24"
+az2_priv_subnet_cidr_block= "10.0.3.0/24"
+instance_type = "t2.micro"
+ami_id = "ami-0866a3c8686eaeeba"
+ami_data_source = "ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-*"
+ssh_cidr_block= "41.232.13.56/32"
+
